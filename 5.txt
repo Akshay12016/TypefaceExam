@@ -1,0 +1,11 @@
+1.Get the website link to crawl
+
+2.We can use python to crawl the website
+
+3.We can use urllib.parse functionality available in python
+
+4.We can get the elements by their tag name such as <p> , <img> etc.,
+
+5.Now you can get all the elements of a particular tag
+
+6.With this you can get extract the text or images from a website
